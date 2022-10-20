@@ -7,4 +7,7 @@ System.out.println("Hello World");
 ### Diff. Text Styles:
 *Italic*
 ~Strike~
+**Bold**
+***Italic Bold***
+<Invisible>
 
