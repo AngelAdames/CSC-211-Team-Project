@@ -1,4 +1,5 @@
-# CSC 211 Team Project
-Where we will work on the project
+# Fall 2022 CSC 211 with Prof. Aydin Team Project 
+
+
 
 
