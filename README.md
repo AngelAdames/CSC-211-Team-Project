@@ -11,5 +11,7 @@ There are going to be a few/couple different buttons when the application is fir
 to see the inventory of.  
 
 
+## UML DIAGRAM LINK
 
+https://app.diagrams.net/?libs=general;uml#HAngelAdames%2FCSC-211-Team-Project%2Fmain%2FUntitled%20Diagram.drawio
 
