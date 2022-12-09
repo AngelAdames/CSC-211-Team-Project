@@ -10,7 +10,7 @@
 
 
 ### UML Diagram Link:
-The Link to the UML: *https://tinyurl.com/9s8wj534*
+The Link to the UML: *https://tinyurl.com/yckuf8ct*
 
 ### 
 
