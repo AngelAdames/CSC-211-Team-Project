@@ -11,7 +11,7 @@
 
 ### UML Diagram Link:
 The Link to the UML:
-*https://app.diagrams.net/#HAngelAdames%2FCSC-211-Team-Project%2Fmain%2FUntitled%20Diagram.drawio*
+https://app.diagrams.net/#H%2FCSC-211-Team-Project%2Fmain%2FUntitled%20Diagram.drawio
 
 ### Issues and future work
 
