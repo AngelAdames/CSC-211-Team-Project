@@ -10,7 +10,7 @@
 
 
 ### UML Diagram Link:
-The Link to the UML: (https://rb.gy/yvxofh)
+The Link to the UML: https://rb.gy/yvxofh
 
 ### Issues and future work
 
