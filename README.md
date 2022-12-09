@@ -2,8 +2,7 @@
 
 ## The Theme
 
-Our application is going to be about a car dealership and is going to show the inventory of our vehicles.
-
+  The purpose of our project will be to create a site that showcases the invetory of the assorted cars that we supply, and the quantity of each specific car, including a feature of a hyperlink and a scroll function for the simplicity of the user.
 
 ## Feature List
 
