@@ -17,3 +17,21 @@ The Link to the UML: *https://tinyurl.com/yckuf8ct*
 ### Issues and future work
 
   A few obvious issues could be seen in the program.  First, the scroll bar doesnt work with the inventory as intended.  You are supposed to be able to scroll up and down through the inventory.  Second, the hyperlink is supposed to bring you to a picture of the best selling car (Audi R8 2023).   It is probably not working because there is no established relationship between the two.  As for the hyperlink, the link was probably not entered into the right field.  Lastly, we were not able to push the project to Github.  When we got to the final part, it kept saying access denied even though we used the access token and everything.  In the future, we would like to add a variety of features and more types of vehicles after getting the scroll bar and hyperlink to work correctly.  As well as figuring out how to push it properly.
+
+#### Self-Assessment of  Satisfying the Project Requirements:
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
