@@ -31,7 +31,7 @@ e) Unfortunately, we do not impliment a polymorphic call in this project, this i
 
 f)  There is no Java array in our code.  Although, we definitely could have used an arraylist for listing the vehicles in the inventory.
 
-g) ### JavaFX FXML GUI
+g)  JavaFX FXML GUI
 
   i) Only an anchor pane was used unfortunately.  
   
