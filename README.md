@@ -1,6 +1,6 @@
 # Fall 2022 CSC 211 with Prof. Aydin Team Project 
 
-# The Theme
+## The Theme
 
 Our application is going to be about a car dealership and is going to show the inventory of our vehicles.
 
