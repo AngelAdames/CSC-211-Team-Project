@@ -6,13 +6,12 @@
 
 ## Feature List
 
-There are going to be a few/couple different buttons when the application is first launched.  From there, you are able to pick which type of vehicle you want
-to see the inventory of.  
+There is going to be a button when the application is first launched.  From there, you are able to click the button to show the current list of cars and how many of them are currently in stock.  
 
 
 ### UML Diagram Link:
 The Link to the UML:
-*(https://app.diagrams.net/#HAngelAdames%2FCSC-211-Team-Project%2Fmain%2FUntitled%20Diagram.drawio)*
+*https://app.diagrams.net/#HAngelAdames%2FCSC-211-Team-Project%2Fmain%2FUntitled%20Diagram.drawio*
 
 ### 
 
